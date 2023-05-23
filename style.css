@@ -1,0 +1,33 @@
+body{
+    
+}
+h1{
+    color: #FFFAFA;
+}
+p{
+    color: #FFFAFA;
+}
+
+
+
+
+
+
+
+
+
+
+.ImagensTotais{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  
+}
+img{
+    width: 700px;
+}
+
+.RedDead:hover{
+    transform: scale(1.2);
+
+}
